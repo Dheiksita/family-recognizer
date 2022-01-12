@@ -1,0 +1,19 @@
+.heading{
+    width: 85%;
+    font-size: 40px;
+}
+.name_of_object,#result_obj_name,#result_acc_name{
+    color:darkslateblue;
+    font-size: 30;
+}
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-harmonious-family-poster-design-image_147624.jpg');
+    background-size: cover;
+    background-position: fixed;
+}
+#camera{
+    border: 3px groove rgb(32, 173, 255);
+    width: 370px;
+    height: 300px;
+    border-width: 10px;
+}
